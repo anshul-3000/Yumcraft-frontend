@@ -85,7 +85,7 @@ npm run build
 - React Hot Toast
 
 ## 📸 Screenshots
-![Recipe Recommendation](./public/screenshots/recipe-list.png)
+![Recipe Recommendation](recipe recommendation.png)
 
 ## 👤 Author
 Anshul Chaudhary
