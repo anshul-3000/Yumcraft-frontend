@@ -85,8 +85,10 @@ npm run build
 - React Hot Toast
 
 ## 📸 Screenshots
-![Recipe Recommendation](recipe recommendation.png)
+![Recipe Recommendation](recipe-recommendation.png)
 
-## 👤 Author
-Anshul Chaudhary
-GitHub: @anshul-3000
+## 🤝 Contributing
+Feel free to fork the repo, open issues, or submit pull requests!
+
+**🔗 Connect with Me:**  
+[LinkedIn](https://www.linkedin.com/in/anshul-chaudhary-b571b5251/) | [GitHub](https://github.com/anshul-3000)
